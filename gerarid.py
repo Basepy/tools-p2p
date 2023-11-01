@@ -3,8 +3,6 @@ import string
 import random
 
 
-
-
 # Função para gerar código de TXID alfanuméricos
 def gerar_identificador():
     caracteres02 = string.digits
